@@ -1,7 +1,7 @@
 // package OOP.BasicOOP;
 
 public class Student {
-    public String name;
+    String name;
     private int enrollmentNumber;
 
     // parameterized constructor
