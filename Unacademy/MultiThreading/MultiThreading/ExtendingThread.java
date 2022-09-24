@@ -10,4 +10,4 @@ public class ExtendingThread extends Thread {
         ExtendingThread t1 = new ExtendingThread();  // object of class Main, as we extending to Thread it will become Thread.
         t1.start();   // Runnable state.
     }
-}
+} 
